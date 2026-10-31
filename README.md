@@ -25,3 +25,20 @@ I'm an Information Technology student passionate about turning ideas into real-w
 <p align="center">
   <i>Curiosity sparks ideas. Code brings them to life. ✦</i>
 </p>
+
+
+### ⌁ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,unreal,godot,unity,git,github,vscode" alt="Technologies and tools" />
+</p>
+
+### Currently Learning
+
+- **Python** — Programming, automation, and AI agents.
+- **C/C++** — Programming fundamentals and problem-solving.
+- **Game Development** — Exploring Unity, Unreal Engine, and Godot.
+
+<p align="center">
+  <i>Learning by building. Growing through experimentation. ✦</i>
+</p>
